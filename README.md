@@ -17,25 +17,22 @@
 
 ## 🎯 **About Me**
 
-```javascript
-const adib = {
-    location: "📍 Pekanbaru, Riau, Indonesia",
-    education: "🎓 Politeknik Caltex Riau",
-    currentFocus: ["AI & Machine Learning", "3D Animation", "Interactive Web Design"],
-    askMeAbout: ["Web Dev", "Graphic Design", "AI", "Animation", "Game Development"],
-    technologies: {
-        frontEnd: ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
-        backEnd: ["PHP", "Python"],
-        design: ["Figma", "Blender", "Adobe Suite"],
-        gameEngine: ["Unity"],
-        databases: ["MySQL", "MongoDB"],
-        tools: ["VS Code", "Git", "Photoshop", "Premiere Pro"]
-    },
-    architecture: ["Progressive Web Apps", "Single Page Applications"],
-    currentlyLearning: "🧠 Deep Learning & Neural Networks",
-    funFact: "I can turn coffee into code and creativity! ☕➡️💻🎨"
-};
-```
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+**🎓 Student at Politeknik Caltex Riau**  
+**📍 Based in Pekanbaru, Riau, Indonesia**
+
+Saya adalah mahasiswa yang passionate dalam dunia kreatif dan teknologi. Selama 3 tahun terakhir, saya aktif mengembangkan kemampuan di bidang **desain grafis**, **animasi**, **pemrograman web**, dan **game development**.
+
+**🚀 Currently Exploring:**
+- 🧠 AI & Machine Learning  
+- 🎥 3D Animation with Blender  
+- 🌐 Interactive Web Development  
+- 🎮 Game Development with Unity  
+
+**💡 Ask me about:** Web Development, Graphic Design, AI, Animation, Game Development
+
+<br clear="both"/>
 
 ---
 
@@ -69,31 +66,6 @@ const adib = {
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adibjabrah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibjabrah&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adibjabrah&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adibjabrah&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 🏆 **GitHub Achievements**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adibjabrah&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
 ---
@@ -161,17 +133,6 @@ timeline
 
 ---
 
-## 🎯 **Featured Projects**
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adibjabrah&repo=portfolio-website&theme=tokyonight)](https://github.com/adibjabrah/portfolio-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adibjabrah&repo=ai-image-generator&theme=tokyonight)](https://github.com/adibjabrah/ai-image-generator)
-
-</div>
-
----
-
 ## 🌟 **Fun Facts & Interests**
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -207,16 +168,6 @@ timeline
 > ### *"God Did"*
 > 
 > *— A reminder that with faith, dedication, and hard work, amazing things are possible*
-
-</div>
-
----
-
-## 🎵 **Currently Vibing To**
-
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k5kw6q7wbrt7odm67z7qnvr2qq&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
