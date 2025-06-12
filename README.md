@@ -172,19 +172,3 @@ timeline
 </div>
 
 ---
-
-<div align="center">
-  
-### 🌟 **"Turning imagination into reality, one line of code at a time"** 🌟
-
-![Snake animation](https://github.com/adibjabrah/adibjabrah/blob/output/github-contribution-grid-snake.svg)
-
-**Thanks for visiting! Let's build something amazing together! 🚀**
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</div>
